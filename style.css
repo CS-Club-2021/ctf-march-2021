@@ -16,10 +16,10 @@ body {
 }
 .row {
     justify-content: space-around;
+    margin: 20px 0;
 }
 .card {
     width: 20rem;
-    margin: 20px 0;
     background-color: var(--primary-varient);
     border: 2px solid var(--secondary-color);
 }
@@ -28,4 +28,23 @@ body {
 }
 .card-link:hover {
     color: var(--secondary-color);
+}
+.btn {
+    color: var(--secondary-color);
+    background-color: var(--primary-varient);
+    border: 2px solid var(--secondary-color);
+    font-size: 1.5em;
+    margin: 20px 0;
+}
+.btn:hover {
+    color: var(--secondary-color);
+    background-color: var(--primary-varient);
+    border: 2px solid var(--secondary-color);
+    font-size: 1.5em;
+}
+.btn:focus {
+    color: var(--secondary-color);
+    background-color: var(--primary-varient);
+    border: 2px solid var(--secondary-color);
+    font-size: 1.5em;
 }
