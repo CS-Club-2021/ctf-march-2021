@@ -1,7 +1,31 @@
-.card {
-    width: 20rem;
-    margin: 20px 0;
+:root {
+    --primary-color:#fffbe5;
+    --primary-varient:#e2b5b0;
+    --secondary-color:#56424e;
+    --secondary-varient:#f4a781;
+}
+body {
+    background-color: var(--primary-color);
+}
+.title {   
+    text-align: center;
+    width: 100%;
+    margin: 24px 0;
+    font-size: 2em;
+    color: var(--secondary-color);
 }
 .row {
     justify-content: space-around;
+}
+.card {
+    width: 20rem;
+    margin: 20px 0;
+    background-color: var(--primary-varient);
+    border: 2px solid var(--secondary-color);
+}
+.card-link {
+    color: var(--secondary-color);
+}
+.card-link:hover {
+    color: var(--secondary-color);
 }
