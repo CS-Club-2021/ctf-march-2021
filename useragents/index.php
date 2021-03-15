@@ -10,8 +10,8 @@
     }
 
     if(isJarvis()){ 
-        Redirect("/definetly_flag");
+        Redirect("/definetly_flag/");
     } else { 
-        Redirect("/definetly_not");
+        Redirect("/definetly_not/");
     } 
 ?> 
