@@ -1,3 +1,4 @@
 RewriteEngine on
-RewriteCond %{HTTP_USER_AGENT} !anfangbrowser
-RewriteRule (.*) http://anfang-challenges.rf.gd/useragents/definetly_not/ [R=301,L]
+RewriteCond %{HTTP_USER_AGENT} !jarvisbrowser
+RewriteRule (.*) https://www.facebook.com [R=301,L]
+#RewriteRule (.*) https://sudo-ctf.herokuapp.com/useragents/definetly_not/ [R=301,L]
