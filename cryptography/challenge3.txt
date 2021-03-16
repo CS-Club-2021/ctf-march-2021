@@ -1,0 +1,35 @@
+#nshqzij<xyint.m>
+#nshqzij<xywnsl.m>
+nsy rfns()
+{
+//hmfw fhyzfq_ufxxbtwi[22] = "hilyk_fyi_{O$s_H#zR@s~";
+hmfw fhyzfq_ufxxbtwi[22] = "lipyo_jym_{M$q_F#xR>s|";
+
+hmfw ufxxbtwi[22];
+nsy qjs= 22;
+uwnsyk("jsyjw ymj ufxxbtwi : ");
+xhfsk("%x",ufxxbtwi);
+
+hmfw *u =ufxxbtwi;
+hmfw *v =ufxxbtwi;
+
+ktw(nsy n=0;n<10;n=n+2)
+{
+	*(u+ n) =*(u+ n) + 2;
+}
+u=u+11;
+ktw(nsy n=0;n<=10;n=n+2)
+{
+	*(u+ n) =*(u+ n) - 1;
+}
+ktw(nsy n=0;n<qjs;n=n+1)
+{
+	uwnsyk("%h",*(ufxxbtwi+n));
+}
+
+nk(xywhru(ufxxbtwi,fhyzfq_ufxxbtwi)==0)
+	uwnsyk("\sFhhjxx Lwfsyji!\s");
+jqxj
+	uwnsyk("\sIjsnji!\s");
+wjyzws 0;
+}

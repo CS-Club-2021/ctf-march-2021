@@ -7,10 +7,15 @@
   /* --secondary-varient: #4d8ab5; */
 }
 body {
+  background-color: var(--secondary-color);
   background-image: url("bg.jpeg");
   background-repeat: no-repeat;
   background-size: 100vw 100vh;
+  background-attachment: fixed;
   font-family: "Comic Neue", cursive;
+}
+.challenge {
+  margin-bottom: 100px;
 }
 .title {
   display: flex;
@@ -21,7 +26,6 @@ body {
   width: 100%;
   margin: 24px 0;
   font-size: 2em;
-  /* color: var(--primary-varient); */
   color: #27241f;
   background-color: #d4c5a8;
   font-weight: bold;
@@ -30,11 +34,19 @@ body {
   border-radius: 20px;
   padding: 10px;
 }
+.section-title {
+  font-size: 1.3em;
+  color: #27241f;
+  background-color: #d4c5a8;
+  font-weight: bold;
+  border: 2px solid #27241f;
+  border-radius:10px;
+  padding: 5px;
+}
 .row {
   justify-content: space-around;
   margin: 20px 0;
 }
-
 .card {
   width: 21.3333333333333rem;
   height: 12rem;
