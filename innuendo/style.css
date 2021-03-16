@@ -1,0 +1,10 @@
+body {
+    margin: 80px;
+    background-image: url("bg.png");
+    background-repeat: no-repeat;
+    background-size: 100vw 100vh;
+  }
+.container {
+    width: 270px;
+    background-color: white;
+}
