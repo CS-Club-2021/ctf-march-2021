@@ -63,6 +63,7 @@ body {
   width: 100%;
   height: 100%;
   -webkit-backface-visibility: hidden; /* Safari */
+  -moz-backface-visibility: hidden; /* Mozzilla */
   backface-visibility: hidden;
 }
 .card-back {
