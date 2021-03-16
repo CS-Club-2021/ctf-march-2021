@@ -1,35 +1,35 @@
-#nshqzij<xyint.m>
-#nshqzij<xywnsl.m>
-nsy rfns()
+#wbqzirs<ghrwc.v>
+#wbqzirs<ghfwbu.v>
+wbh aowb()
 {
-//hmfw fhyzfq_ufxxbtwi[22] = "hilyk_fyi_{O$s_H#zR@s~";
-hmfw fhyzfq_ufxxbtwi[22] = "lipyo_jym_{M$q_F#xR>s|";
+qvof oqhioz_doggkcfr[26] = "iitcSHV{3_@z_`|joL$^Oau#m}";
 
-hmfw ufxxbtwi[22];
-nsy qjs= 22;
-uwnsyk("jsyjw ymj ufxxbtwi : ");
-xhfsk("%x",ufxxbtwi);
+qvof doggkcfr[26];
+wbh zsb= 26;
+dfwbht("sbhsf hvs doggkcfr : ");
+gqobt("%g",doggkcfr);
 
-hmfw *u =ufxxbtwi;
-hmfw *v =ufxxbtwi;
+qvof *d =doggkcfr;
+qvof *e =doggkcfr;
 
-ktw(nsy n=0;n<10;n=n+2)
+tcf(wbh w=0;w<10;w=w+2)
 {
-	*(u+ n) =*(u+ n) + 2;
+	*(d+ w) =*(d+ w) + 2;
 }
-u=u+11;
-ktw(nsy n=0;n<=10;n=n+2)
+d=d+11;
+tcf(wbh w=0;w<=10;w=w+2)
 {
-	*(u+ n) =*(u+ n) - 1;
+	*(d+ w) =*(d+ w) - 1;
 }
-ktw(nsy n=0;n<qjs;n=n+1)
+tcf(wbh w=0;w<zsb;w=w+1)
 {
-	uwnsyk("%h",*(ufxxbtwi+n));
+	dfwbht("%q",*(doggkcfr+w));
 }
 
-nk(xywhru(ufxxbtwi,fhyzfq_ufxxbtwi)==0)
-	uwnsyk("\sFhhjxx Lwfsyji!\s");
-jqxj
-	uwnsyk("\sIjsnji!\s");
-wjyzws 0;
+wt(ghfqad(doggkcfr,oqhioz_doggkcfr)==0)
+	dfwbht("\bOqqsgg Ufobhsr!\b");
+szgs
+	dfwbht("\bRsbwsr!\b");
+fshifb 0;
+
 }
