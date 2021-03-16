@@ -1,0 +1,20 @@
+body {
+    margin: 80px;
+    background-image: url("bg.gif");
+    background-repeat: no-repeat;
+    background-size: 100vw 100vh;
+  }
+.container {
+    width: 270px;
+    background-color: white;
+}
+img {
+    width: 270px;
+    height: 480px;
+}
+a {
+    background-color: white;
+    padding: 10px;
+    margin-top: 10px;
+    display: inline-block;
+}
