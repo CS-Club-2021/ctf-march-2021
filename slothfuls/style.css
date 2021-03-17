@@ -1,0 +1,19 @@
+body {
+    margin: 100px;
+    background-image:    url("bg.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+.content {
+    background-color: #1A1F27;
+    padding: 10px;
+    border-radius: 15px;
+    color:#BBCBC7;
+    width: 400px;
+    position: absolute;
+    top: 25px;
+    left: 25px;
+}
+.message {
+    margin: 10px;
+}
