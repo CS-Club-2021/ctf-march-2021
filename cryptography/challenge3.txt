@@ -1,35 +1,36 @@
-#wbqzirs<ghrwc.v>
-#wbqzirs<ghfwbu.v>
-wbh aowb()
+#lqfoxgh<vwglr.k>
+#lqfoxgh<vwulqj.k>
+lqw pdlq()
 {
-qvof oqhioz_doggkcfr[26] = "iitcSHV{3_@z_`|joL$^Oau#m}";
+//fkdu dfwxdo_sdvvzrug[32] = "xxirHWK{3_@o_`|ydA$^Dpj#b}";
+fkdu dfwxdo_sdvvzrug[32] = "xxirHWK{kodi7^1^@o_`|ydB$_Dqj#b}";
 
-qvof doggkcfr[26];
-wbh zsb= 26;
-dfwbht("sbhsf hvs doggkcfr : ");
-gqobt("%g",doggkcfr);
+fkdu sdvvzrug[32];
+lqw ohq= 32;
+sulqwi("hqwhu wkh sdvvzrug : ");
+vfdqi("%v",sdvvzrug);
 
-qvof *d =doggkcfr;
-qvof *e =doggkcfr;
+fkdu *s =sdvvzrug;
+fkdu *t =sdvvzrug;
 
-tcf(wbh w=0;w<10;w=w+2)
+iru(lqw l=0;l<10;l=l+2)
 {
-	*(d+ w) =*(d+ w) + 2;
+	*(s+ l) =*(s+ l) + 2;
 }
-d=d+11;
-tcf(wbh w=0;w<=10;w=w+2)
+s=s+11;
+iru(lqw l=0;l<=10;l=l+2)
 {
-	*(d+ w) =*(d+ w) - 1;
+	*(s+ l) =*(s+ l) - 1;
 }
-tcf(wbh w=0;w<zsb;w=w+1)
+iru(lqw l=0;l<ohq;l=l+1)
 {
-	dfwbht("%q",*(doggkcfr+w));
+	sulqwi("%f",*(sdvvzrug+l));
 }
 
-wt(ghfqad(doggkcfr,oqhioz_doggkcfr)==0)
-	dfwbht("\bOqqsgg Ufobhsr!\b");
-szgs
-	dfwbht("\bRsbwsr!\b");
-fshifb 0;
+li(vwufps(sdvvzrug,dfwxdo_sdvvzrug)==0)
+	sulqwi("\qDffhvv Judqwhg!\q");
+hovh
+	sulqwi("\qGhqlhg!\q");
+uhwxuq 0;
 
 }
