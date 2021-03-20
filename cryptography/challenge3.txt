@@ -1,0 +1,36 @@
+#lqfoxgh<vwglr.k>
+#lqfoxgh<vwulqj.k>
+lqw pdlq()
+{
+//fkdu dfwxdo_sdvvzrug[32] = "xxirHWK{3_@o_`|ydA$^Dpj#b}";
+fkdu dfwxdo_sdvvzrug[32] = "xxirHWK{kodi7^1^@o_`|ydB$_Dqj#b}";
+
+fkdu sdvvzrug[32];
+lqw ohq= 32;
+sulqwi("hqwhu wkh sdvvzrug : ");
+vfdqi("%v",sdvvzrug);
+
+fkdu *s =sdvvzrug;
+fkdu *t =sdvvzrug;
+
+iru(lqw l=0;l<10;l=l+2)
+{
+	*(s+ l) =*(s+ l) + 2;
+}
+s=s+11;
+iru(lqw l=0;l<=10;l=l+2)
+{
+	*(s+ l) =*(s+ l) - 1;
+}
+iru(lqw l=0;l<ohq;l=l+1)
+{
+	sulqwi("%f",*(sdvvzrug+l));
+}
+
+li(vwufps(sdvvzrug,dfwxdo_sdvvzrug)==0)
+	sulqwi("\qDffhvv Judqwhg!\q");
+hovh
+	sulqwi("\qGhqlhg!\q");
+uhwxuq 0;
+
+}

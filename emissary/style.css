@@ -1,0 +1,17 @@
+body {
+    margin: 100px;
+    background-image:    url("bg.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+.content {
+    background-color: #1D1214;
+    color: #C99EB0;
+    font-size: 1.2em;
+    padding: 10px;
+    border-radius: 20px;
+    width: 400px;
+    position: absolute;
+    top: 25px;
+    left: 25px;
+}

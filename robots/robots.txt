@@ -1,2 +1,0 @@
-User-agent: *
-Disallow: /definetly_do_not_look.html
